@@ -1,0 +1,47 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f4f4f4;
+        }
+
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background: #333;
+            overflow: hidden;
+        }
+
+        nav a {
+    
+            display: flex;
+            padding: 14px 20px;
+            color: white;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background: #575757;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #3c8d41;
+        }
